@@ -25,3 +25,6 @@
 [submodule "vim-snippets"]
 	path = vim-snippets
 	url = https://github.com/zhao96/vim-snippets.git
+[submodule "ale"]
+	path = ale
+	url = https://github.com/dense-analysis/ale.git
